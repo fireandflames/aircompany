@@ -28,7 +28,7 @@ public class PassengerPlane extends Plane{
 
 //    @Override
 //    public String toString() {
-//        return super.toString().replace("}",
+//        return super.toString().replace("}",                        Why is that commented?
 //                ", passengersCapacity=" + passengersCapacity +
 //                        '}');
 //    }
